@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://hackerbikram.github.io/bikram/sitemap.xml
